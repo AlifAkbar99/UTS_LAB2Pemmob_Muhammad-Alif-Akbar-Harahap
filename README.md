@@ -17,8 +17,23 @@ dimana user ditentukan untuk memilih jawaban dari 4 pilihan (A, B, C, D) yang be
 Hasil dari quiz ini, user dapat melihat jawaban benar dan salah sesuai dengan yang dijawab oleh user, sehingga user mengetahui letak kesalahan dari soal.
 
 aset yang digunakan:
-icon-back
-https://www.flaticon.com/free-icon/back_3415823?term=back&page=1&position=44&origin=search&related_id=3415823
-icon-winner
-https://www.flaticon.com/free-icon/badge_3135728?term=medal&page=2&position=88&origin=search&related_id=3135728
 
+
+icon-back
+
+https://www.flaticon.com/free-icon/back_3415823?term=back&page=1&position=44&origin=search&related_id=3415823
+
+
+icon-winner
+
+https://www.flaticon.com/free-icon/trophy_889518?term=champion&page=3&position=35&origin=search&related_id=889518
+
+
+Screenshot Debug
+
+https://drive.google.com/drive/folders/19j8MvLINdqJxBsRikpOwHTtIRFXzd1VZ?usp=sharing
+
+
+Figma:
+
+https://www.figma.com/design/vtWJz7o9wk3rVm1Em2KhEe/UTS-Lab-2-Pemmob?node-id=0-1&t=l9KMtPdas8N5ybOJ-1
