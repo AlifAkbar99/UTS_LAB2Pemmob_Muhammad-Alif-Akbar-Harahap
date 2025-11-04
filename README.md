@@ -1,16 +1,14 @@
-# uts_labpemmob
+**QUIZ**
+Nama: Muhammad Alif Akbar Harahap
+NIM: 231401127
+Lab 2 Pemograman mobile
 
-A new Flutter project.
+Nama aplikasi: Quiz
+Deskripsi: Aplikasi Quiz menampilkan soal pilihan ganda dan pembahasan kepada user. Aplikasi ini bersifat pilihan ganda, dimana user ditentukan untuk memilih jawaban dari 4 pilihan (A, B, C, D) yang berupa pertanyaan umum. Hasil dari quiz ini, user dapat melihat jawaban benar dan salah sesuai dengan yang dijawab oleh user, sehingga user mengetahui letak kesalahan dari soal.
 
-## Getting Started
+aset yang digunakan:
+icon-back
+https://www.flaticon.com/free-icon/back_3415823?term=back&page=1&position=44&origin=search&related_id=3415823
+icon-winner
+https://www.flaticon.com/free-icon/badge_3135728?term=medal&page=2&position=88&origin=search&related_id=3135728
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
